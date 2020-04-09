@@ -16,7 +16,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________
 If you get an error in the 3rd line, make sure you have mentioned the latest version of Spark. Otherwise, it won't work.
 Check the latest Spark version : 
-[!https://downloads.apache.org/spark/]
+https://downloads.apache.org/spark/
 
 2. Copy and Paste this :
 
