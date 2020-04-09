@@ -13,7 +13,7 @@ ________________________________________________________________________________
 !tar xf spark-2.4.5-bin-hadoop2.7.tgz  -----> Make sure you're using the latest version of Spark.
 
 !pip install -q findspark
-__________________________________________________________________________________________
+=======================================================================================================================================
 If you get an error in the 3rd line, make sure you have mentioned the latest version of Spark. Otherwise, it won't work.
 Check the latest Spark version : 
 https://downloads.apache.org/spark/
@@ -32,7 +32,8 @@ import findspark
 
 findspark.init()
 
+_______________________________________________________________________________________________________________________________________
 
 ##### Now you've set up your spark environment. Initialize a session to start working.
-_______________________________________________________________________________________________________________________________________
+
 
